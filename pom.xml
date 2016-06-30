@@ -32,7 +32,7 @@
               <configuration>
                  <artifacts>
                     <artifact>
-                       <id>com.umlet:plugin:jar:14.2</id>
+                       <id>com.umlet:com.umlet.plugin:jar:14.2</id>
                        <source>false</source>
                        <transitive>false</transitive>
                   
